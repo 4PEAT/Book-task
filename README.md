@@ -1,4 +1,3 @@
-Absolutely — here are the **clearly written, final requirements** for your **Spring Boot REST API** using a **disk-persistent H2 database**:
 
 ---
 
